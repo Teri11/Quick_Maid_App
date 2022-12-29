@@ -1,0 +1,23 @@
+[data-view="footer-area"] footer {
+  background-color: rgb(216, 170, 43);
+ 
+ 
+  .text-white {
+    text-decoration: none;
+    font-family: 'Lora', serif;
+  }
+}
+
+[data-view="footer-area"] h6.text-uppercase {
+  font-family: 'Lora', serif;
+  
+  font-weight: bolder;
+}
+
+[data-view="footer-area"] p {
+  font-family: 'Lora', serif;
+}
+
+[data-view="footer-area"] .copyright-wrapper {
+  background-color: rgba(0, 0, 0, 0.2);
+}
